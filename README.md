@@ -3,7 +3,7 @@ A web-based lifelogging tool to analyze egocentric images based on lifestyle pat
 
 ### CITATION:
 
-P. Herruzo, L. Portell, A. Soto, B. Remeseiro, P. Radeva (2019). Towards Objective Description of Eating, Socializing and Sedentary Lifestyle Patterns in Egocentric Images.
+P. Herruzo, L. Portell, A. Soto, B. Remeseiro (2019). Towards Objective Description of Eating, Socializing and Sedentary Lifestyle Patterns in Egocentric Images.
 
 ### DOWNLOAD:
 
