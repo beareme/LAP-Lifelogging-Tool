@@ -14,3 +14,10 @@ Alternatively, you can clone it from GitHub as follows:
 ``` sh
 $ git clone https://github.com/beareme/LAP-Lifelogging-Tool.git
 ```
+
+### EXECUTION:
+
+Run:
+```
+python flask run
+```
